@@ -9,22 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /LJT-Homepage/publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /LJT-Homepage/cv/
